@@ -39,7 +39,7 @@ body{
   font-size: 15px;
   margin: 0px 16px 16px 16px;
   text-align: center;
-  color: #7D889E;
+  color: hsl(218, 44%, 22%);
   letter-spacing: 0.19px;
   line-height: 21px;
 }
